@@ -1,2 +1,1 @@
 # GeorgiaTech
-# GeorgiaTech
